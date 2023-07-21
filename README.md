@@ -38,6 +38,6 @@ The culminating project in this course revolves around constructing a classifier
 - Application of Regression, Classification, Clustering, and Recommender Systems algorithms on various datasets to solve real-world problems
 
 ## Certificates
-Verification of the certificate can be found [here](https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a):
+Certificate verification can be found [here](https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a):
 
 [![image](https://github.com/ethanbenavides/Machine-Learning-with-Python/assets/57383185/6d007781-6a3a-424f-a4b1-d748984d1ba5)](https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a)
